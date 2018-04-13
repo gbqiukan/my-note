@@ -1,4 +1,3 @@
-http://www.cnblogs.com/chengmo/archive/2010/10/10/1847287.html
 
-How to get rid of `grep: warning: GREP_OPTIONS is deprecated; please use an alias or script`?
-    unset GREP_OPTIONS
+
+
